@@ -60,5 +60,5 @@ The dataset used in this project is intended for demonstration and learning purp
 
 ## 📬 Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/YourChannelName](https://t.me/MarketSigna1))
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MarketSigna1)
 
