@@ -3,8 +3,7 @@ Interactive Power BI Customer Churn Dashboard using Power Query and DAX to analy
 
 ## Dashboard Preview
 
-<img width="1920" height="940" alt="1" src="https://github.com/user-attachments/assets/59fefbd1-aa21-4f3f-a723-625a6820989d" />
-<img width="1920" height="969" alt="2" src="https://github.com/user-attachments/assets/d8d86914-68f6-4f86-88c1-ff00ba1dcf28" />
+<img width="1774" height="755" alt="dashboard" src="https://github.com/user-attachments/assets/cf0c81d9-57f4-4f35-9b62-43b2dd6afbc0" />
 
 
 # 📊 Customer Churn Dashboard (Power BI Sample Project)
